@@ -68,6 +68,8 @@ _actions = [
     "playercontrol(random)"   , "Toggle Random",
     "playercontrol(randomon)" , "Random On",
     "playercontrol(randomoff)", "Random Off",
+    "playercontrol(tempoup)"  , "Playback Speed Faster",
+    "playercontrol(tempodown)", "Playback Speed Slower",
     "createbookmark"          , "Create Bookmark",
     "createepisodebookmark"   , "Create Episode Bookmark",
     "togglestereomode"        , "Toggle 3D/Stereoscopic mode",
